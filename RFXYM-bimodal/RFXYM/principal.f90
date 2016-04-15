@@ -1,5 +1,6 @@
 !  Copyright 2014 João Batista dos Santos Filho <joao@jbsantosfilho.com>
-program xydiluidoisolado
+! programa campo aleatorio na direção z
+program RFXYM
     
     implicit none
     save                                                                                                                         
